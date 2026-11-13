@@ -40,7 +40,6 @@ Feeding one model's output into another (e.g., an image classifier's output as a
 ## Questions I still have
 - How do teams decide when it's worth paying down ML debt vs. shipping new features?
 - What tools do companies use to version data and track who consumes it?
-- (Add your own)
 
 ## Next
 - Finish Sections 4 to 5: feedback loops, glue code, pipeline jungles
